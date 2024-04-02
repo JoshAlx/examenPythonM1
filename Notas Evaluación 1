@@ -1,0 +1,21 @@
+Codificar un programa que le permita a un organizador de una tienda de comics administrar el inventario de la tienda, el software debe tener un menú
+de opciones realizado en Python que permita:
+
+- Registrar un producto de la tienda con los siguientes atributos:
+
+	• Id generado automáticamente (1-100 y sin repetir)
+	• Nombre del producto
+	• Precio unitario del producto
+	• Ubicación en la tienda (la tienda tiene 4 zonas (A,B,C,D) cada una con una capacidad máxima de 50 productos.
+	• Descripción del producto
+	• Casa a la que pertenece el producto (Marvel, DC, etc)
+	• Referencia (código alfanumérico)
+	• País de origen del producto
+	• Numero de unidades compradas del producto
+	• Producto con garantía extendida (true/false)
+- Buscar y mostrar en consola todos los productos en bodega
+- Buscar y mostrar en consola (el id, el nombre, el precio unitario y la descripción) de un producto especifico este debe buscarse por nombre 
+- Buscar y modificar el numero de unidades compradas del producto, esta modificación nunca podrá ser mayor al número inicial ingresado-Eliminar un producto del inventario buscándolo por nombre, debe pedir confirmación antes de borrarlo.
+
+
+
